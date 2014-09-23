@@ -1,0 +1,38 @@
+﻿
+
+html, body, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, pre,
+a, abbr, acronym, address, code,
+del, dfn, em, q, fieldset, form, label, legend,caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;	
+	outline-style:none;outline-width:0;outline-color:-moz-use-text-color;font-weight:normal;}
+ 
+body {margin:0px;padding:0px;
+	box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+html,body{width:100%;height:100%;}
+table { border-collapse: separate; border-spacing: 0; }
+select, input, textarea {background-color: #FFFFFF; font-size:14px;font-family:arial;}
+input, textarea { padding: 0px;font-family:arial;}
+form { border: none; margin: 0px; padding: 0px; display:inline; }
+ul, ol, li, dl, dt, dd { list-style: none; padding: 0px; margin: 0px; }
+a img { border: 0; }
+img { border: none; }
+a:link, a:active, a:visited { /* color: #4D4D4D; */ text-decoration: none; }
+.clrb{clear:both;}
+input.op_btn{padding:0px; margin:1px 0px 0px -1px; border:none; background:none;_width:14px; _height:14px;vertical-align:top;}	
+input.chk_btn{padding:0px; margin:0px; border:none; width:13px; height:13px; background:none;vertical-align:bottom;}
+textarea{resize:none;}
+ 
+/*********** REMOVE BORDER INPUT, TEXT ARE FOR CHROME ***********/
+input:active{outline-color:-moz-use-text-color;outline-style:none;outline-width:0;}
+input:focus{outline-color:-moz-use-text-color;outline-style:none;outline-width:0;}
+textarea:active{outline-color:-moz-use-text-color;outline-style:none;outline-width:0;}
+textarea:focus{outline-color:-moz-use-text-color;outline-style:none;outline-width:0;}
+select:active{outline-color:-moz-use-text-color;outline-style:none;outline-width:0;}
+select:focus{outline-color:-moz-use-text-color;outline-style:none;outline-width:0;}
+/*********** E: REMOVE BORDER INPUT, TEXT ARE FOR CHROME ***********/

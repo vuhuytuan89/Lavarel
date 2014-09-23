@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `check_mytour` TINYINT(1) NOT NULL AFTER `updated_at`;

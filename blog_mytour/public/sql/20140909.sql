@@ -1,0 +1,1 @@
+ALTER TABLE `category` ADD `cat_check_it` TINYINT(1) NOT NULL AFTER `cat_check_mytour`;

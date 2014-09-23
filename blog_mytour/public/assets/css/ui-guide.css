@@ -1,0 +1,16 @@
+﻿/**
+ * UI-Guide - reset.css
+**/
+
+body {font-size:14px;color:#666;font-family:"Segoe UI","MS Sans Serif4", Geneva, sans-serif;}
+
+h1{font-size:36px;}
+h2{font-size:30px;}
+h3{font-size:24px;}
+h4{font-size:20px;}
+h5{font-size:16px;}
+h6{font-size:14px;}
+p{font-size:16px;}
+
+a{color:#1e84b7;}
+a:hover{text-decoration:none;color:#334455;}
